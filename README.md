@@ -39,9 +39,9 @@ Start the server
 
 
 ## Tech Stack
-HTML
-CSS
-JavaScript 
+HTML,
+CSS,
+JavaScript, 
 ReactJs
 
 
