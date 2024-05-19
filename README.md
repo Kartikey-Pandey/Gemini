@@ -5,7 +5,7 @@ A Gemini clone website is a replication or imitation of Gemini, a minimalist web
 
 
 ## ScreeShot
-![Gemini ScreeShot](<Screenshot 2024-05-18 181649.png>)
+![Gemini ScreeShot](https://github.com/Kartikey-Pandey/Gemini/assets/84182235/1efc186d-42dc-412d-aff3-f945c2905184)
 
 
 ## Run Locally
